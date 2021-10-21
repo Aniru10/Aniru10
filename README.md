@@ -5,7 +5,7 @@
 - 📫 You can reach me :
       email: aniruddha.rc@outlook.com <br>
       phone: +91-7278056330 <br>
-      LinkedIn: <a href="linkedin.com/in/aniruddha-roychoudhury">Aniruddha Roychoudhury</a>
+      LinkedIn: <a href="https://www.linkedin.com/in/aniruddha-roychoudhury/">Aniruddha Roychoudhury</a>
 
 <!---
 Aniru10/Aniru10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
